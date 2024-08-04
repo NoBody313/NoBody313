@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoBody313
-- 👀 I’m interested in creatifity, and networking.
-- 🌱 I’m currently learning kotlin, html, css, javascript.
+- 🌱 I’m Fullstack Dev in assurance Company, Using Laravel And Other React Framework.
+- 2 Year's Experience In Website Development.
 - 📫 you can find me at instagram https://www.instagram.com/idkwhy.m1/
 
 <!---
